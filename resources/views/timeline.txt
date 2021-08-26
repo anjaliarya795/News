@@ -1,0 +1,6 @@
+project news
+model migration for state, city, news
+migrate
+controller news
+base,home
+home route function
